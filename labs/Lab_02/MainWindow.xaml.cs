@@ -111,7 +111,7 @@ namespace Lab_02
                     if (board[row, column])
                         Console.Write(" Q");
                     else
-                        Console.Write(" .");
+                        Console.Write(" Θ");
                 } // end for
 
                 Console.WriteLine();
